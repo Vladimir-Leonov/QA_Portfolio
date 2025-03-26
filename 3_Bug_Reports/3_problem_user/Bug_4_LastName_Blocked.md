@@ -17,4 +17,4 @@
 Поле **Last Name** не реагирует на ввод (текст не появляется).
 
 **Скриншот**:  
-![Поле Last Name заблокировано](../5_Additional_Materials/Screenshots/bug3_last_name_blocked.png)
+![Поле Last Name заблокировано](../../5_Additional_Materials/Screenshots/bug3_last_name_blocked.png)
