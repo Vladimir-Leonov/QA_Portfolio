@@ -17,7 +17,7 @@
 
 ### Доказательства:
 - **Лог производительности (DevTools)**:  
-  ![Performance Log](../../5_Additional_Materials/Performance_glitch_user_logs/Bug_Slow_Page_Loade.json)
+  ![Performance Log](../../5_Additional_Materials/Performance_glitch_user_logs/Bug_Slow_Page_Load.json)
 - **Снимок вкладки Performance**:  
   ![Performance Log](../../5_Additional_Materials/Performance_glitch_user_logs/slow_login_performance.png)
 - **Long Tasks**:  

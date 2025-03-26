@@ -14,4 +14,4 @@
 ### Фактический результат:
 Все товары имеют одинаковое изображение (например, серый рюкзак).
 
-![Скриншот](../5_Additional_Materials/Screenshots/bug1_duplicate_images.png)
+![Скриншот](../../5_Additional_Materials/Screenshots/bug1_duplicate_images.png)
