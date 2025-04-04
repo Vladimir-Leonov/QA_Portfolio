@@ -34,4 +34,4 @@ TC-010
 - [## Баг #1: Смещение иконки корзины `visual_user`](../../3_Bug_Reports/6_visual_user/bug_1_report_cart_icon_misalignment.md)
 - [## Баг #2: Фильтрация по цене генерирует случайные значения для `visual_user`](../../3_Bug_Reports/6_visual_user/bug_3_report_price_filter_random.md)
 - [## Баг #3: Все товары отображаются с одинаковыми изображениями для `problem_user`](../../3_Bug_Reports/3_problem_user/Bug_3_Duplicate_Images.md)
-- [## Баг #4: Фильтрация по цене генерирует случайные значения для `visual_user`](../../3_Bug_Reports/6_visual_user/bug_4_report_checkout_button_misaligned.md)
+- [## Баг #4: Кнопка "Checkout" смещена в правый верхний угол](../../3_Bug_Reports/6_visual_user/bug_4_report_checkout_button_misaligned.md)
